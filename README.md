@@ -1,6 +1,6 @@
 # This is the readme file created to understand the product code
 
 - This code has 3 folders
-- Payment - Created to enable payment authentication
-- Otp     - Created to enable Otp authentication
-- Login   - Created to enable Login authentication
+- Payment - Folder to enable payment gateway
+- Otp     - Folder to enable Otp access
+- Login   - Folder to enable Login acess
