@@ -2,7 +2,7 @@
 
   
 - This code has 4 folders
-- Payment   - Folder to enable payment gateway
-- Otp       - Folder to enable Otp access
-- Login     - Folder to enable Login access
+- Payment   - Folder to enable payment authentication
+- Otp       - Folder to enable Otp authentication
+- Login     - Folder to enable Login authentication
 - Frontpage - Create to enable seemless connection for customers from mobile app
